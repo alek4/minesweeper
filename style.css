@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.btn {
+  font-size: 1rem;
+  
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  
+  cursor: pointer;
+  background-color: rgb(144, 149, 144);
+  border: none;
+  border-radius: .2rem
+}
